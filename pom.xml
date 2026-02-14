@@ -95,15 +95,15 @@
 	<distributionManagement>
 	
 	    <repository>
-	        <id>nexus</id>
+	        <id>sona-nexus</id>
 	        <name>HDFC Release Repository</name>
-	        <url>http://13.233.97.17:8081/repository/HDFC-release-repo/</url>
+	        <url>http://13.126.219.148:8081/repository/central-bank-release-repo//</url>
 	    </repository>
 		
 	    <snapshotRepository>
-	        <id>nexus</id>
+	        <id>sona-nexus</id>
 	        <name>HDFC Snapshot Repository</name>
-	        <url>http://13.233.97.17:8081/repository/HDFC-SNAPSHOT-repo/</url>
+	        <url>http://13.126.219.148:8081/repository/central-bank-snapshot-repo/</url>
 	    </snapshotRepository>
 		
 	</distributionManagement>
